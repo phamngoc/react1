@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name":"Trần Thế Anh",
+        "tel":"0984489015",
+        "permission":2
+    },
+    {
+        "id": 2,
+        "name":"Nguyễn Quốc Hải",
+        "tel":"0988889015",
+        "permission":1
+    },
+    {
+        "id": 3,
+        "name":"Phạm Hoài Nam",
+        "tel":"0984444015",
+        "permission":2
+    },
+    {
+        "id": 4,
+        "name":"Vũ Minh Tuấn",
+        "tel":"0986666015",
+        "permission":3
+    },
+    {
+        "id": 5,
+        "name":"Nguyễn Quốc Hưng",
+        "tel":"0984489015",
+        "permission":2
+    }
+]
